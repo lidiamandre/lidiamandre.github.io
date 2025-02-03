@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Statistics, Lancaster University, 2025
+* MRes in Statistics and Operational Research, Lancaster University, 2021
+* MSc in Statistics and Operational Research, Universidade de Lisboa, 2019
+* BSc in Mathematics Applide to Economics and Management, Universidade de Lisboa, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 - Present: Postdoctoral Researcher
+  * Université de Namur
+  * This role involves investigating X-vines for multivariate extremes
+  
+* 2024: Research Associate
+  * Lancaster University
+  * Computer Skills Project
+  * This role involved developing an R package, and R Shiny app, that was uploaded to CRAN
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2023: Graduate Teaching Assistant
+  * School of Mathematical Sciences, Lancaster University
+  * This role involved running workshops and marking weekly coursework
+  * Modules: Calculus, Further Calculus, Statistics II, Statistical Foundations I, Statistical Fundamentals II, Bayesian Statistics, Inference
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Research Fellow
+  * Portuguese Institute for Sea and Atmosphere
+  * This role involved investigating of the spatial distribution of a fish species where the focus was on assessing if using Preferential Sampling would improve the estimation of such distribution
+  
+* 2012-2017: Monitor at Summer Camp
+  * Junta de Freguesia de Carnide, Lisboa, Portugal
+  * This role involved taking care of children aged 3-10, proportionating them a good, fun, and safe summer 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing skills
+  * R (and R packaging)
+  * Julia
+  * LaTeX
+  * High-performance Computing
+  * SLURM
+  * GitHub
+* Language skills
+  * Portuguese: native speaker
+  * English: C2 - IELTS Academic with band score 7.5
+  * Italian: A2
+  * Spanish: A1
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023
+  * 23rd European Young Statisticians Meeting
+  * European Regional Committee of the Bernoulli Society
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019
+  * XXIV Congresso da Sociedade Portuguesa de Estat\'istica (Scolarship)
+  * Sociedade Portuguesa de Estatística
