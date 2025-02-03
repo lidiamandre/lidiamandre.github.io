@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * PhD in Statistics, Lancaster University, 2025
@@ -33,7 +31,7 @@ Work experience
 
 * 2019-2020: Research Fellow
   * Portuguese Institute for Sea and Atmosphere
-  * This role involved investigating of the spatial distribution of a fish species where the focus was on assessing if using Preferential Sampling would improve the estimation of such distribution
+  * This role involved investigating the spatial distribution of a fish species where the focus was on assessing if using Preferential Sampling would improve the estimation of such distribution
   
 * 2012-2017: Monitor at Summer Camp
   * Junta de Freguesia de Carnide, Lisboa, Portugal
