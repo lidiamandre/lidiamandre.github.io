@@ -64,4 +64,4 @@ Awards
   * XXIV Congresso da Sociedade Portuguesa de Estat\'istica (Scolarship)
   * Sociedade Portuguesa de Estatística
   
-See my full CV here: [link](/CV.pdf)
+See my full CV [here](/files/CV.pdf)
