@@ -7,4 +7,4 @@ date: 2023-10-12
 location: "Ljubljana, Slovenia"
 ---
 
-[Slides](/files/EYSM.pdf) | [Talk](https://www.youtube.com/watch?v=8GhGSdlCPLI)
+[Slides](/files/EYSM.pdf) and [Talk](https://www.youtube.com/watch?v=8GhGSdlCPLI)
