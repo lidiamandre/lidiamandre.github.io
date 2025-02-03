@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "sunrise"
+site_theme               : "dark"
 title                    : "Lídia André"
 title_separator          : "-"
 name                     : &name "Lídia André"
-description              : &description ""Postdoctoral Research Fellow at Université de Namur"
+description              : &description "Postdoctoral Research Fellow at Université de Namur"
 url                      : https://lidiamandre.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lidiamandre/lidiamandre.github.io"
