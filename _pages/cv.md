@@ -46,7 +46,7 @@ Skills
   * R (and R packaging)
   * Julia
   * LaTeX
-  * High-performance Computing
+  * High-performance Computing (HPC)
   * SLURM
   * GitHub
 * Language skills
