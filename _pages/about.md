@@ -15,4 +15,4 @@ I am currently a Postdoctoral Research Fellow at the Université de Namur, Belgi
   - Computational statistics
   - Machine Learning
 
-Email: (at)unamur(dot)be
+Email: lidia(dot)andre(at)unamur(dot)be
