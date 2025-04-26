@@ -7,4 +7,4 @@ date: 2020-07-02
 location: "Cagliari, Italy"
 ---
 
-[Certificate](/files/ICCSA.pdf)
+[Certificate](/files/ICCSA2020.pdf)
