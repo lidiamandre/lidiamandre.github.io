@@ -13,7 +13,7 @@ Education
 * PhD in Statistics, Lancaster University, 2025
 * MRes in Statistics and Operational Research, Lancaster University, 2021
 * MSc in Statistics and Operational Research, Universidade de Lisboa, 2019
-* BSc in Mathematics Applide to Economics and Management, Universidade de Lisboa, 2017
+* BSc in Mathematics Applied to Economics and Management, Universidade de Lisboa, 2017
 
 Work experience
 ======
@@ -24,16 +24,16 @@ Work experience
 * 2024: Research Associate
   * Lancaster University
   * Computer Skills Project
-  * This role involved developing an R package, and R Shiny app, that was uploaded to CRAN
+  * This role involved developing an R package, and R Shiny app, that was uploaded to CRAN; see ReturnCurves package
 
 * 2021 - 2023: Graduate Teaching Assistant
   * School of Mathematical Sciences, Lancaster University
   * This role involved running workshops and marking weekly coursework
   * Modules: Calculus, Further Calculus, Statistics II, Statistical Foundations I, Statistical Fundamentals II, Bayesian Statistics, Inference
 
-* 2019-2020: Research Fellow
+* 2019 - 2020: Research Fellow
   * Portuguese Institute for Sea and Atmosphere
-  * This role involved investigating the spatial distribution of a fish species where the focus was on assessing if using Preferential Sampling would improve the estimation of such distribution
+  * This role involved investigating the spatial distribution of a fish species where the focus was on assessing whether incorporating Preferential Sampling would improve the estimation of such distribution
   
 * 2012-2017: Monitor at Summer Camp
   * Junta de Freguesia de Carnide, Lisboa, Portugal
