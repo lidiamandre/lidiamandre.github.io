@@ -1,5 +1,5 @@
 ---
-title: "Gaussian mixture copulas for flexible dependence modelling in the body and tails of joint distributions"
+title: "[Under review] Gaussian mixture copulas for flexible dependence modelling in the body and tails of joint distributions"
 collection: publications
 category: manuscripts
 date: 2025-03-11

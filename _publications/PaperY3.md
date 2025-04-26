@@ -1,5 +1,5 @@
 ---
-title: "Neural Bayes inference for complex bivariate extremal dependence models"
+title: "[Under review] Neural Bayes inference for complex bivariate extremal dependence models"
 collection: publications
 category: manuscripts
 date: 2025-03-29
