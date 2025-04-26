@@ -35,7 +35,7 @@ Work experience
   * Portuguese Institute for Sea and Atmosphere
   * This role involved investigating the spatial distribution of a fish species where the focus was on assessing whether incorporating Preferential Sampling would improve the estimation of such distribution
   
-* 2012-2017: Monitor at Summer Camp
+* 2012 - 2017: Monitor at Summer Camp
   * Junta de Freguesia de Carnide, Lisboa, Portugal
   * This role involved taking care of children aged 3-10, proportionating them a good, fun, and safe summer 
   
