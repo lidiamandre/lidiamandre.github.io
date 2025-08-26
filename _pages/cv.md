@@ -56,12 +56,16 @@ Skills
 
 Awards
 ======
+* 2025
+  * SPE Award
+  * Sociedade Portuguesa de Estatística
+  
 * 2023
   * 23rd European Young Statisticians Meeting
   * European Regional Committee of the Bernoulli Society
   
 * 2019
-  * XXIV Congresso da Sociedade Portuguesa de Estat\'istica (Scolarship)
+  * XXIV Congresso da Sociedade Portuguesa de Estatística (Scolarship)
   * Sociedade Portuguesa de Estatística
   
 See my full CV [here](/files/CV.pdf).
