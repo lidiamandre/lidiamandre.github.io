@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* 2025 - Present: Postdoctoral Researcher
+* 2025: Postdoctoral Researcher
   * Université de Namur
-  * This role involves investigating X-vines for multivariate extremes
+  * This role involved investigating X-vines for multivariate extremes
   
 * 2024: Research Associate
   * Lancaster University
