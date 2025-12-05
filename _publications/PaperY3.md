@@ -1,8 +1,8 @@
 ---
-title: "[Under review] Neural Bayes inference for complex bivariate extremal dependence models"
+title: "Neural Bayes estimation and selection for complex bivariate extremal dependence models"
 collection: publications
 category: manuscripts
-date: 2025-03-29
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2503.23156'
+date: 2025-12-05
+venue: 'Extremes'
+paperurl: 'https://doi.org/10.1007/s10687-025-00521-8'
 ---
