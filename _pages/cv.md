@@ -12,13 +12,16 @@ Education
 ======
 * PhD in Statistics, Lancaster University, 2025
 * MRes in Statistics and Operational Research, Lancaster University, 2021
-* MSc in Statistics and Operational Research, Universidade de Lisboa, 2019
-* BSc in Mathematics Applied to Economics and Management, Universidade de Lisboa, 2017
+* MSc in Statistics and Operational Research, University of Lisbon, 2019
+* BSc in Mathematics Applied to Economics and Management, University of Lisbon, 2017
 
 Work experience
 ======
+* 2026 - Pres.: Assistant Professor (Lecturer)
+  * ISEG - Lisbon School of Economics and Management, University of Lisbon
+  
 * 2025: Postdoctoral Researcher
-  * Université de Namur
+  * University of Namur
   * This role involved investigating X-vines for multivariate extremes
   
 * 2024: Research Associate
