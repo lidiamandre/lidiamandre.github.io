@@ -15,4 +15,4 @@ I am currently a Assistant Professor (Lecturer) in Statistics and Actuarial Scie
   - Copula modelling
   - Machine Learning
 
-Email: lidia(dot)andre(at)unamur(dot)be
+Email: lidiamandre(at)iseg(dot)ulisboa(dot)pt
